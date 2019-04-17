@@ -1,0 +1,65 @@
+{
+  "Telefonía Hogar Total CNT": {
+    "Nombre del Plan": "Telefonía Hogar Total CNT",
+    "Inscripción": null,
+    "Pensión básica mensual": "7.99",
+    "Tecnología": "GPON",
+    "Minutos incluidos": "200 minutos fijos o 100 minutos a móviles"
+  },
+  "Telefonía Hogar": {
+    "Nombre del Plan": "Telefonía Hogar",
+    "Inscripción": null,
+    "Pensión básica mensual": "20",
+    "Tecnología": "Línea GPON Only",
+    "Minutos incluidos": "250 munitos"
+  },
+  "Noches y Fines de Semana Sin Límites": {
+    "Nombre del Plan": "Noches y Fines de Semana Sin Límites",
+    "Inscripción": null,
+    "Pensión básica mensual": "3",
+    "Tecnología": "N/A",
+    "Minutos incluidos": "N/A"
+  },
+  "Centrex Residencial": {
+    "Nombre del Plan": "Centrex Residencial",
+    "Inscripción": null,
+    "Pensión básica mensual": "1.5",
+    "Tecnología": null,
+    "Minutos incluidos": null
+  },
+  "Plan Hogar Inalámbrica": {
+    "Nombre del Plan": "Plan Hogar Inalámbrica",
+    "Inscripción": "60",
+    "Pensión básica mensual": "6.2",
+    "Tecnología": null,
+    "Minutos incluidos": "150 minutos"
+  },
+  "Llamadas locales y nacionales": {
+    "Nombre del Plan": "Llamadas locales y nacionales",
+    "Inscripción": "60",
+    "Pensión básica mensual": "6.2",
+    "Tecnología": null,
+    "Minutos incluidos": "150 minutos"
+  },
+  "Plan Social": {
+    "Nombre del Plan": "Plan Social",
+    "Inscripción": "0",
+    "Pensión básica mensual": "3",
+    "Tecnología": null,
+    "Minutos incluidos": "375 minutos"
+  },
+  "Plan Discapacidades": {
+    "Nombre del Plan": "Plan Discapacidades",
+    "Inscripción": "0",
+    "Pensión básica mensual": "3",
+    "Tecnología": null,
+    "Minutos incluidos": "375 minutos"
+  },
+  "Prepago País": {
+    "Nombre del Plan": "Prepago País",
+    "Inscripción": "0",
+    "Pensión básica mensual": "0",
+    "Tecnología": null,
+    "Minutos incluidos": "N/A"
+  }
+}

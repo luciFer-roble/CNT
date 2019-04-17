@@ -1,0 +1,252 @@
+[
+  {
+    "name": "Fibra óptica para hogares",
+    "type": "Plan 10 Mbps",
+    "technology": "Fibra óptica",
+    "cost": "24.9",
+    "Tarifa con impuestos (12%)": null,
+    "download": "10",
+    "upload": "10",
+    "instalation_cost": "80"
+  },
+  {
+    "name": "Fibra óptica para hogares",
+    "type": "Plan 20 Mbps",
+    "technology": "Fibra óptica",
+    "cost": "29.9",
+    "Tarifa con impuestos (12%)": null,
+    "download": "20",
+    "upload": "20",
+    "instalation_cost": "80"
+  },
+  {
+    "name": "Fibra óptica para hogares",
+    "type": "Plan 30 Mbps",
+    "technology": "Fibra óptica",
+    "cost": "36",
+    "Tarifa con impuestos (12%)": null,
+    "download": "30",
+    "upload": "30",
+    "instalation_cost": "80"
+  },
+  {
+    "name": "Fibra óptica para hogares",
+    "type": "Plan 50 Mbps",
+    "technology": "Fibra óptica",
+    "cost": "49.9",
+    "Tarifa con impuestos (12%)": null,
+    "download": "50",
+    "upload": "50",
+    "instalation_cost": "80"
+  },
+  {
+    "name": "Fibra óptica para hogares",
+    "type": "Plan 80 Mbps",
+    "technology": "Fibra óptica",
+    "cost": "80",
+    "Tarifa con impuestos (12%)": null,
+    "download": "80",
+    "upload": "80",
+    "instalation_cost": "80"
+  },
+  {
+    "name": "Fibra óptica para hogares",
+    "type": "Plan 100 Mbps",
+    "technology": "Fibra óptica",
+    "cost": "110",
+    "Tarifa con impuestos (12%)": null,
+    "download": "100",
+    "upload": "100",
+    "instalation_cost": "80"
+  },
+  {
+    "name": "Planes Internet Banda Ancha Hogar",
+    "type": "Plan 5 Mbps",
+    "technology": "Cobre",
+    "cost": "20.9",
+    "Tarifa con impuestos (12%)": null,
+    "download": "5",
+    "upload": "1",
+    "instalation_cost": "60"
+  },
+  {
+    "name": "Planes Internet Banda Ancha Hogar",
+    "type": "Plan 10 Mbps",
+    "technology": "Cobre",
+    "cost": "24.9",
+    "Tarifa con impuestos (12%)": null,
+    "download": "10",
+    "upload": "1",
+    "instalation_cost": "60"
+  },
+  {
+    "name": "Planes Internet Banda Ancha Hogar",
+    "type": "Plan 15 Mbps",
+    "technology": "Cobre",
+    "cost": "29.9",
+    "Tarifa con impuestos (12%)": null,
+    "download": "15",
+    "upload": "1",
+    "instalation_cost": "60"
+  },
+  {
+    "name": "Planes Internet Banda Ancha Hogar",
+    "type": "Plan 4 mbps",
+    "technology": "GPON",
+    "cost": "18",
+    "Tarifa con impuestos (12%)": null,
+    "download": "4",
+    "upload": "2",
+    "instalation_cost": "60"
+  },
+  {
+    "name": "Planes Internet Banda Ancha Hogar",
+    "type": "Plan 5 Mbps",
+    "technology": "GPON",
+    "cost": "20.9",
+    "Tarifa con impuestos (12%)": null,
+    "download": "5",
+    "upload": "2",
+    "instalation_cost": "60"
+  },
+  {
+    "name": "Planes Internet Banda Ancha Hogar",
+    "type": "Plan 15 Mbps",
+    "technology": "GPON",
+    "cost": "29.9",
+    "Tarifa con impuestos (12%)": null,
+    "download": "15",
+    "upload": "10",
+    "instalation_cost": "60"
+  },
+  {
+    "name": "Planes Internet Banda Ancha Hogar",
+    "type": "Plan 25 Mbps",
+    "technology": "GPON",
+    "cost": "36",
+    "Tarifa con impuestos (12%)": null,
+    "download": "25",
+    "upload": "15",
+    "instalation_cost": "60"
+  },
+  {
+    "name": "Planes Internet Banda Ancha Hogar",
+    "type": "Plan 50 Mbps",
+    "technology": "GPON",
+    "cost": "49.9",
+    "Tarifa con impuestos (12%)": null,
+    "download": "50",
+    "upload": "25",
+    "instalation_cost": "60"
+  },
+  {
+    "name": "Planes Internet Banda Ancha Hogar",
+    "type": "Plan 100 Mbps",
+    "technology": "GPON",
+    "cost": "110",
+    "Tarifa con impuestos (12%)": null,
+    "download": "100",
+    "upload": "50",
+    "instalation_cost": "60"
+  },
+  {
+    "name": "Planes Ultra Internet fibra óptica",
+    "type": "Plan 15 Mbps",
+    "technology": "Fibra óptica",
+    "cost": "26.9",
+    "Tarifa con impuestos (12%)": null,
+    "download": "15",
+    "upload": "15",
+    "instalation_cost": "0"
+  },
+  {
+    "name": "Planes Ultra Internet fibra óptica",
+    "type": "Plan 25 Mbps",
+    "technology": "Fibra óptica",
+    "cost": "31.9",
+    "Tarifa con impuestos (12%)": null,
+    "download": "25",
+    "upload": "25",
+    "instalation_cost": "0"
+  },
+  {
+    "name": "Planes Ultra Internet fibra óptica",
+    "type": "Plan 50 Mbps",
+    "technology": "Fibra óptica",
+    "cost": "44.9",
+    "Tarifa con impuestos (12%)": null,
+    "download": "50",
+    "upload": "50",
+    "instalation_cost": "0"
+  },
+  {
+    "name": "Planes Ultra Internet fibra óptica",
+    "type": "Plan 75 Mbps",
+    "technology": "Fibra óptica",
+    "cost": "59.9",
+    "Tarifa con impuestos (12%)": null,
+    "download": "75",
+    "upload": "75",
+    "instalation_cost": "0"
+  },
+  {
+    "name": "Planes Ultra Internet fibra óptica",
+    "type": "Plan 100 Mbps",
+    "technology": "Fibra óptica",
+    "cost": "80.9",
+    "Tarifa con impuestos (12%)": null,
+    "download": "100",
+    "upload": "100",
+    "instalation_cost": "0"
+  },
+  {
+    "name": "Plan Internet Estudiantil",
+    "type": "Plan 2 Mbps",
+    "technology": null,
+    "cost": "12.99",
+    "Tarifa con impuestos (12%)": null,
+    "download": "2",
+    "upload": "1",
+    "instalation_cost": "50"
+  },
+  {
+    "name": "Plan Internet Social",
+    "type": "Intenet Social",
+    "technology": null,
+    "cost": "9.99",
+    "Tarifa con impuestos (12%)": null,
+    "download": "2",
+    "upload": "1",
+    "instalation_cost": "0"
+  },
+  {
+    "name": "Planes Internet Controlado",
+    "type": "Intenet Social",
+    "technology": "EVDO",
+    "cost": "10",
+    "Tarifa con impuestos (12%)": null,
+    "download": "1",
+    "upload": "1",
+    "instalation_cost": "0"
+  },
+  {
+    "name": "Planes Internet Controlado",
+    "type": "Internet Hogar",
+    "technology": "EVDO",
+    "cost": "18",
+    "Tarifa con impuestos (12%)": null,
+    "download": "2",
+    "upload": "2",
+    "instalation_cost": "0"
+  },
+  {
+    "name": "Planes Internet Controlado",
+    "type": "Internet Empresarial",
+    "technology": "EVDO",
+    "cost": "35",
+    "Tarifa con impuestos (12%)": null,
+    "download": "4",
+    "upload": "4",
+    "instalation_cost": "0"
+  }
+]

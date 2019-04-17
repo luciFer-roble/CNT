@@ -1,0 +1,1290 @@
+[
+  {
+    "name": "Ecuavisa",
+    "number": "2",
+    "type": "SD",
+    "plan": "SD",
+    "category": "Nacional"
+  },
+  {
+    "name": "Teleamazonas",
+    "number": "4",
+    "type": "SD",
+    "plan": "SD",
+    "category": "Nacional"
+  },
+  {
+    "name": "RTS",
+    "number": "5",
+    "type": "SD",
+    "plan": "SD",
+    "category": "Nacional"
+  },
+  {
+    "name": "Oromar Tv",
+    "number": "6",
+    "type": "SD",
+    "plan": "SD",
+    "category": "Nacional"
+  },
+  {
+    "name": "Ecuador Tv",
+    "number": "7",
+    "type": "SD",
+    "plan": "SD",
+    "category": "Nacional"
+  },
+  {
+    "name": "Gamavisión",
+    "number": "8",
+    "type": "SD",
+    "plan": "SD",
+    "category": "Nacional"
+  },
+  {
+    "name": "TC Televisión",
+    "number": "10",
+    "type": "SD",
+    "plan": "SD",
+    "category": "Nacional"
+  },
+  {
+    "name": "Televicentro",
+    "number": "11",
+    "type": "SD",
+    "plan": "SD",
+    "category": "Nacional"
+  },
+  {
+    "name": "Canal Uno",
+    "number": "12",
+    "type": "SD",
+    "plan": "SD",
+    "category": "Nacional"
+  },
+  {
+    "name": "Teleciudadana",
+    "number": "334",
+    "type": "SD",
+    "plan": "SD",
+    "category": "Nacional"
+  },
+  {
+    "name": "Discovery Kids",
+    "number": "50",
+    "type": "SD",
+    "plan": "SD",
+    "category": "Infantil"
+  },
+  {
+    "name": "Nat Geo Kids",
+    "number": "51",
+    "type": "SD",
+    "plan": "SD",
+    "category": "Infantil"
+  },
+  {
+    "name": "Nickelodeon",
+    "number": "52",
+    "type": "SD",
+    "plan": "SD",
+    "category": "Infantil"
+  },
+  {
+    "name": "Cartoon Network",
+    "number": "53",
+    "type": "SD",
+    "plan": "SD",
+    "category": "Infantil"
+  },
+  {
+    "name": "Disney Channel",
+    "number": "54",
+    "type": "SD",
+    "plan": "SD",
+    "category": "Infantil"
+  },
+  {
+    "name": "Disney XD",
+    "number": "55",
+    "type": "SD",
+    "plan": "SD",
+    "category": "Infantil"
+  },
+  {
+    "name": "Boomerang",
+    "number": "56",
+    "type": "SD",
+    "plan": "SD",
+    "category": "Infantil"
+  },
+  {
+    "name": "Disney Junior",
+    "number": "58",
+    "type": "SD",
+    "plan": "SD",
+    "category": "Infantil"
+  },
+  {
+    "name": "ID Investigación Discovery",
+    "number": "100",
+    "type": "SD",
+    "plan": "SD",
+    "category": "peliculas"
+  },
+  {
+    "name": "Canal FOX",
+    "number": "101",
+    "type": "SD",
+    "plan": "SD",
+    "category": "peliculas"
+  },
+  {
+    "name": "Universal",
+    "number": "102",
+    "type": "SD",
+    "plan": "SD",
+    "category": "peliculas"
+  },
+  {
+    "name": "Space",
+    "number": "103",
+    "type": "SD",
+    "plan": "SD",
+    "category": "peliculas"
+  },
+  {
+    "name": "Studio Universal",
+    "number": "104",
+    "type": "SD",
+    "plan": "SD",
+    "category": "peliculas"
+  },
+  {
+    "name": "FX",
+    "number": "105",
+    "type": "SD",
+    "plan": "SD",
+    "category": "peliculas"
+  },
+  {
+    "name": "TCM",
+    "number": "106",
+    "type": "SD",
+    "plan": "SD",
+    "category": "peliculas"
+  },
+  {
+    "name": "Warner Channel",
+    "number": "110",
+    "type": "SD",
+    "plan": "SD",
+    "category": "peliculas"
+  },
+  {
+    "name": "SONY Entertainment Tv",
+    "number": "111",
+    "type": "SD",
+    "plan": "SD",
+    "category": "peliculas"
+  },
+  {
+    "name": "AXN",
+    "number": "112",
+    "type": "SD",
+    "plan": "SD",
+    "category": "peliculas"
+  },
+  {
+    "name": "E! Entertainment Television",
+    "number": "113",
+    "type": "SD",
+    "plan": "SD",
+    "category": "peliculas"
+  },
+  {
+    "name": "A&E",
+    "number": "115",
+    "type": "SD",
+    "plan": "SD",
+    "category": "peliculas"
+  },
+  {
+    "name": "TNT Series",
+    "number": "116",
+    "type": "SD",
+    "plan": "SD",
+    "category": "peliculas"
+  },
+  {
+    "name": "FOX Life",
+    "number": "117",
+    "type": "SD",
+    "plan": "SD",
+    "category": "peliculas"
+  },
+  {
+    "name": "Discovery Home and Health",
+    "number": "148",
+    "type": "SD",
+    "plan": "SD",
+    "category": "variado"
+  },
+  {
+    "name": "Travel & Living Channel",
+    "number": "149",
+    "type": "SD",
+    "plan": "SD",
+    "category": "variado"
+  },
+  {
+    "name": "Canal de las Estrellas",
+    "number": "151",
+    "type": "SD",
+    "plan": "SD",
+    "category": "variado"
+  },
+  {
+    "name": "El Gourmet",
+    "number": "154",
+    "type": "SD",
+    "plan": "SD",
+    "category": "variado"
+  },
+  {
+    "name": "Telemundo",
+    "number": "157",
+    "type": "SD",
+    "plan": "SD",
+    "category": "variado"
+  },
+  {
+    "name": "Life Time",
+    "number": "159",
+    "type": "SD",
+    "plan": "SD",
+    "category": "variado"
+  },
+  {
+    "name": "Telenovelas",
+    "number": "250",
+    "type": "SD",
+    "plan": "SD",
+    "category": "variado"
+  },
+  {
+    "name": "CNT Sports",
+    "number": "3",
+    "type": "SD",
+    "plan": "SD",
+    "category": "deportes"
+  },
+  {
+    "name": "FOX Sports",
+    "number": "300",
+    "type": "SD",
+    "plan": "SD",
+    "category": "deportes"
+  },
+  {
+    "name": "FOX Sports 2",
+    "number": "301",
+    "type": "SD",
+    "plan": "SD",
+    "category": "deportes"
+  },
+  {
+    "name": "ESPN",
+    "number": "302",
+    "type": "SD",
+    "plan": "SD",
+    "category": "deportes"
+  },
+  {
+    "name": "ESPN 2",
+    "number": "303",
+    "type": "SD",
+    "plan": "SD",
+    "category": "deportes"
+  },
+  {
+    "name": "FOX Sports 3",
+    "number": "304",
+    "type": "SD",
+    "plan": "SD",
+    "category": "deportes"
+  },
+  {
+    "name": "Canela TV",
+    "number": "305",
+    "type": "SD",
+    "plan": "SD",
+    "category": "deportes"
+  },
+  {
+    "name": "Discovery Channel",
+    "number": "350",
+    "type": "SD",
+    "plan": "SD",
+    "category": "documental"
+  },
+  {
+    "name": "Animal Planet",
+    "number": "353",
+    "type": "SD",
+    "plan": "SD",
+    "category": "documental"
+  },
+  {
+    "name": "National Geographic",
+    "number": "354",
+    "type": "SD",
+    "plan": "SD",
+    "category": "documental"
+  },
+  {
+    "name": "The History Channel",
+    "number": "361",
+    "type": "SD",
+    "plan": "SD",
+    "category": "documental"
+  },
+  {
+    "name": "History 2",
+    "number": "362",
+    "type": "SD",
+    "plan": "SD",
+    "category": "documental"
+  },
+  {
+    "name": "CNN en Español",
+    "number": "363",
+    "type": "SD",
+    "plan": "SD",
+    "category": "documental"
+  },
+  {
+    "name": "NatGeo Wild",
+    "number": "400",
+    "type": "SD",
+    "plan": "SD",
+    "category": "Noticias"
+  },
+  {
+    "name": "MTV",
+    "number": "450",
+    "type": "SD",
+    "plan": "SD",
+    "category": "musica"
+  },
+  {
+    "name": "HTV",
+    "number": "451",
+    "type": "SD",
+    "plan": "SD",
+    "category": "musica"
+  },
+  {
+    "name": "Paramount",
+    "number": "499",
+    "type": "SD",
+    "plan": "SD",
+    "category": "cine"
+  },
+  {
+    "name": "TNT",
+    "number": "500",
+    "type": "SD",
+    "plan": "SD",
+    "category": "cine"
+  },
+  {
+    "name": "Golden",
+    "number": "501",
+    "type": "SD",
+    "plan": "SD",
+    "category": "cine"
+  },
+  {
+    "name": "FX Movies",
+    "number": "502",
+    "type": "SD",
+    "plan": "SD",
+    "category": "cine"
+  },
+  {
+    "name": "CineCanal",
+    "number": "503",
+    "type": "SD",
+    "plan": "SD",
+    "category": "cine"
+  },
+  {
+    "name": "De Película",
+    "number": "504",
+    "type": "SD",
+    "plan": "SD",
+    "category": "cine"
+  },
+  {
+    "name": "AMC",
+    "number": "505",
+    "type": "SD",
+    "plan": "SD",
+    "category": "cine"
+  },
+  {
+    "name": "Cinemax",
+    "number": "515",
+    "type": "SD",
+    "plan": "SD",
+    "category": "cine"
+  },
+  {
+    "name": "CNT Sports",
+    "number": "700",
+    "type": "SD",
+    "plan": "SD",
+    "category": "deportes"
+  },
+  {
+    "name": "Rusia Today",
+    "number": "778",
+    "type": "SD",
+    "plan": "SD",
+    "category": "Noticias"
+  },
+  {
+    "name": "Pop Classics",
+    "number": "900",
+    "type": "Audio",
+    "plan": "SD",
+    "category": "Audio"
+  },
+  {
+    "name": "Tango",
+    "number": "901",
+    "type": "Audio",
+    "plan": "SD",
+    "category": "Audio"
+  },
+  {
+    "name": "The Chill Lounge",
+    "number": "902",
+    "type": "Audio",
+    "plan": "SD",
+    "category": "Audio"
+  },
+  {
+    "name": "Romance Latino",
+    "number": "903",
+    "type": "Audio",
+    "plan": "SD",
+    "category": "Audio"
+  },
+  {
+    "name": "Latino Tropical",
+    "number": "904",
+    "type": "Audio",
+    "plan": "SD",
+    "category": "Audio"
+  },
+  {
+    "name": "Poolside",
+    "number": "905",
+    "type": "Audio",
+    "plan": "SD",
+    "category": "Audio"
+  },
+  {
+    "name": "Flashbacj 70´s",
+    "number": "906",
+    "type": "Audio",
+    "plan": "SD",
+    "category": "Audio"
+  },
+  {
+    "name": "Y2K",
+    "number": "907",
+    "type": "Audio",
+    "plan": "SD",
+    "category": "Audio"
+  },
+  {
+    "name": "Rock en Español",
+    "number": "908",
+    "type": "Audio",
+    "plan": "SD",
+    "category": "Audio"
+  },
+  {
+    "name": "Reggaeton",
+    "number": "909",
+    "type": "Audio",
+    "plan": "SD",
+    "category": "Audio"
+  },
+  {
+    "name": "CNT Sports HD",
+    "number": "700",
+    "type": "HD",
+    "plan": "HD",
+    "category": "Deportes"
+  },
+  {
+    "name": "FOX Sports HD",
+    "number": "701",
+    "type": "HD",
+    "plan": "HD",
+    "category": "Deportes"
+  },
+  {
+    "name": "FOX Sports 2",
+    "number": "702",
+    "type": "HD",
+    "plan": "HD",
+    "category": "Deportes"
+  },
+  {
+    "name": "ESPN HD",
+    "number": "703",
+    "type": "HD",
+    "plan": "HD",
+    "category": "Deportes"
+  },
+  {
+    "name": "ESPN +",
+    "number": "704",
+    "type": "HD",
+    "plan": "HD",
+    "category": "Deportes"
+  },
+  {
+    "name": "Discovery Kids",
+    "number": "705",
+    "type": "HD",
+    "plan": "HD",
+    "category": "infantil"
+  },
+  {
+    "name": "Discovery HD",
+    "number": "710",
+    "type": "HD",
+    "plan": "HD",
+    "category": "Documental"
+  },
+  {
+    "name": "Discovery World HD",
+    "number": "711",
+    "type": "HD",
+    "plan": "HD",
+    "category": "Documental"
+  },
+  {
+    "name": "DiscoveryTheater",
+    "number": "712",
+    "type": "HD",
+    "plan": "HD",
+    "category": "Documental"
+  },
+  {
+    "name": "Nat Geo Wild HD",
+    "number": "713",
+    "type": "HD",
+    "plan": "HD",
+    "category": "Documental"
+  },
+  {
+    "name": "History Channel HD",
+    "number": "714",
+    "type": "HD",
+    "plan": "HD",
+    "category": "Documental"
+  },
+  {
+    "name": "Investigation DIscovery",
+    "number": "720",
+    "type": "HD",
+    "plan": "HD",
+    "category": "Entretenimiento"
+  },
+  {
+    "name": "FOX HD",
+    "number": "721",
+    "type": "HD",
+    "plan": "HD",
+    "category": "Entretenimiento"
+  },
+  {
+    "name": "Universal Channel HD",
+    "number": "722",
+    "type": "HD",
+    "plan": "HD",
+    "category": "Entretenimiento"
+  },
+  {
+    "name": "Space HD",
+    "number": "723",
+    "type": "HD",
+    "plan": "HD",
+    "category": "Entretenimiento"
+  },
+  {
+    "name": "Warner",
+    "number": "724",
+    "type": "HD",
+    "plan": "HD",
+    "category": "Entretenimiento"
+  },
+  {
+    "name": "SONY",
+    "number": "725",
+    "type": "HD",
+    "plan": "HD",
+    "category": "Entretenimiento"
+  },
+  {
+    "name": "AXN",
+    "number": "726",
+    "type": "HD",
+    "plan": "HD",
+    "category": "Entretenimiento"
+  },
+  {
+    "name": "A&E",
+    "number": "727",
+    "type": "HD",
+    "plan": "HD",
+    "category": "Entretenimiento"
+  },
+  {
+    "name": "TNT Series HD",
+    "number": "728",
+    "type": "HD",
+    "plan": "HD",
+    "category": "Entretenimiento"
+  },
+  {
+    "name": "ATRESERIES",
+    "number": "729",
+    "type": "HD",
+    "plan": "HD",
+    "category": "Entretenimiento"
+  },
+  {
+    "name": "FX",
+    "number": "730",
+    "type": "HD",
+    "plan": "HD",
+    "category": "Entretenimiento"
+  },
+  {
+    "name": "TNT HD",
+    "number": "740",
+    "type": "HD",
+    "plan": "HD",
+    "category": "CINE"
+  },
+  {
+    "name": "Golden HD",
+    "number": "741",
+    "type": "HD",
+    "plan": "HD",
+    "category": "CINE"
+  },
+  {
+    "name": "Cinecanal HD",
+    "number": "742",
+    "type": "HD",
+    "plan": "HD",
+    "category": "CINE"
+  },
+  {
+    "name": "Cinemax HD",
+    "number": "743",
+    "type": "HD",
+    "plan": "HD",
+    "category": "CINE"
+  },
+  {
+    "name": "DHE HD",
+    "number": "744",
+    "type": "HD",
+    "plan": "HD",
+    "category": "CINE"
+  },
+  {
+    "name": "AMC HD",
+    "number": "745",
+    "type": "HD",
+    "plan": "HD",
+    "category": "CINE"
+  },
+  {
+    "name": "Discovery H&H",
+    "number": "760",
+    "type": "HD",
+    "plan": "HD",
+    "category": "Variado"
+  },
+  {
+    "name": "Hola TV HD",
+    "number": "761",
+    "type": "HD",
+    "plan": "HD",
+    "category": "Variado"
+  },
+  {
+    "name": "Stingray Concert HD",
+    "number": "770",
+    "type": "HD",
+    "plan": "HD",
+    "category": "Musica"
+  },
+  {
+    "name": "Ecuavisa",
+    "number": "2",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "Nacional"
+  },
+  {
+    "name": "Teleamazonas",
+    "number": "4",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "Nacional"
+  },
+  {
+    "name": "RTS",
+    "number": "5",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "Nacional"
+  },
+  {
+    "name": "Ecuador Tv",
+    "number": "7",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "Nacional"
+  },
+  {
+    "name": "Gamavisión",
+    "number": "8",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "Nacional"
+  },
+  {
+    "name": "TC",
+    "number": "10",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "Nacional"
+  },
+  {
+    "name": "Televicentro",
+    "number": "11",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "Nacional"
+  },
+  {
+    "name": "UNO",
+    "number": "12",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "Nacional"
+  },
+  {
+    "name": "Discovery Kids",
+    "number": "50",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "infantil"
+  },
+  {
+    "name": "Cartoon Network",
+    "number": "53",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "infantil"
+  },
+  {
+    "name": "Disney Channel",
+    "number": "54",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "infantil"
+  },
+  {
+    "name": "ID - Investigation Discovery",
+    "number": "100",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "peliculas"
+  },
+  {
+    "name": "Fox",
+    "number": "101",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "peliculas"
+  },
+  {
+    "name": "Space",
+    "number": "103",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "peliculas"
+  },
+  {
+    "name": "FX",
+    "number": "105",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "peliculas"
+  },
+  {
+    "name": "Warner Channel",
+    "number": "110",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "peliculas"
+  },
+  {
+    "name": "Canal Sony",
+    "number": "111",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "peliculas"
+  },
+  {
+    "name": "Discovery H&H",
+    "number": "148",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "variado"
+  },
+  {
+    "name": "CNT sport",
+    "number": "300",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "deportes"
+  },
+  {
+    "name": "Fox Sport",
+    "number": "301",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "deportes"
+  },
+  {
+    "name": "ESPN",
+    "number": "302",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "deportes"
+  },
+  {
+    "name": "FOX 2",
+    "number": "304",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "deportes"
+  },
+  {
+    "name": "Discovery Channel",
+    "number": "350",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "documental"
+  },
+  {
+    "name": "Animal Planet",
+    "number": "353",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "documental"
+  },
+  {
+    "name": "National Geographic",
+    "number": "354",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "documental"
+  },
+  {
+    "name": "History Channel",
+    "number": "361",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "documental"
+  },
+  {
+    "name": "CNN Español",
+    "number": "400",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "Noticias"
+  },
+  {
+    "name": "CNN Internacional",
+    "number": "402",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "Noticias"
+  },
+  {
+    "name": "TNT",
+    "number": "500",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "cine"
+  },
+  {
+    "name": "Cinemax",
+    "number": "515",
+    "type": "SD",
+    "plan": "Galápagos",
+    "category": "cine"
+  },
+  {
+    "name": "Nick Junior",
+    "number": "57",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "Infantil"
+  },
+  {
+    "name": "Tooncast",
+    "number": "59",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "Infantil"
+  },
+  {
+    "name": "Baby Tv",
+    "number": "60",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "Infantil"
+  },
+  {
+    "name": "Clan",
+    "number": "61",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "Infantil"
+  },
+  {
+    "name": "Ci SAT",
+    "number": "107",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "Peliculas"
+  },
+  {
+    "name": "Syfy",
+    "number": "108",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "Peliculas"
+  },
+  {
+    "name": "TBS",
+    "number": "109",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "Peliculas"
+  },
+  {
+    "name": "Telefe",
+    "number": "110",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "Peliculas"
+  },
+  {
+    "name": "Comedy Central",
+    "number": "155",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "Variado"
+  },
+  {
+    "name": "GLITZ",
+    "number": "156",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "Variado"
+  },
+  {
+    "name": "MasChic",
+    "number": "158",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "Variado"
+  },
+  {
+    "name": "Inti",
+    "number": "160",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "Variado"
+  },
+  {
+    "name": "ESPN 3",
+    "number": "306",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "Deportes"
+  },
+  {
+    "name": "Discovery science",
+    "number": "356",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "Documentales"
+  },
+  {
+    "name": "Film&Arts",
+    "number": "357",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "Documentales"
+  },
+  {
+    "name": "Discovery Civilization",
+    "number": "358",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "Documentales"
+  },
+  {
+    "name": "Discovery Turbo",
+    "number": "359",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "Documentales"
+  },
+  {
+    "name": "Tru Tv",
+    "number": "360",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "Documentales"
+  },
+  {
+    "name": "CNN Internacional",
+    "number": "402",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "Noticias"
+  },
+  {
+    "name": "BBC world news",
+    "number": "404",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "Noticias"
+  },
+  {
+    "name": "Eurochannel",
+    "number": "497",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "cine"
+  },
+  {
+    "name": "Golden Edge",
+    "number": "498",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "cine"
+  },
+  {
+    "name": "Europa",
+    "number": "506",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "cine"
+  },
+  {
+    "name": "TVE",
+    "number": "552",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "Internacional"
+  },
+  {
+    "name": "Antena 3",
+    "number": "554",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "Internacional"
+  },
+  {
+    "name": "El trece",
+    "number": "55",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "Internacional"
+  },
+  {
+    "name": "EWTN",
+    "number": "600",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "Religioso"
+  },
+  {
+    "name": "Enlace",
+    "number": "601",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "Empresarial"
+  },
+  {
+    "name": "WOBI",
+    "number": "610",
+    "type": "SD",
+    "plan": "Total Plus",
+    "category": "Empresarial"
+  },
+  {
+    "name": "Fox Movies",
+    "number": "507",
+    "type": "SD",
+    "plan": "FOX Premium",
+    "category": "Entretenimiento"
+  },
+  {
+    "name": "Fox Series",
+    "number": "508",
+    "type": "SD",
+    "plan": "FOX Premium",
+    "category": "Entretenimiento"
+  },
+  {
+    "name": "Fox Series Oeste",
+    "number": "509",
+    "type": "SD",
+    "plan": "FOX Premium",
+    "category": "Entretenimiento"
+  },
+  {
+    "name": "Fox Action",
+    "number": "510",
+    "type": "SD",
+    "plan": "FOX Premium",
+    "category": "Entretenimiento"
+  },
+  {
+    "name": "Fox Family",
+    "number": "511",
+    "type": "SD",
+    "plan": "FOX Premium",
+    "category": "Entretenimiento"
+  },
+  {
+    "name": "Fox Comedy",
+    "number": "512",
+    "type": "SD",
+    "plan": "FOX Premium",
+    "category": "Entretenimiento"
+  },
+  {
+    "name": "Fox Cinema",
+    "number": "513",
+    "type": "SD",
+    "plan": "FOX Premium",
+    "category": "Entretenimiento"
+  },
+  {
+    "name": "Fox Classics",
+    "number": "514",
+    "type": "SD",
+    "plan": "FOX Premium",
+    "category": "Entretenimiento"
+  },
+  {
+    "name": "Fox Series",
+    "number": "780",
+    "type": "SD",
+    "plan": "FOX Premium",
+    "category": "Entretenimiento"
+  },
+  {
+    "name": "HBO",
+    "number": "516",
+    "type": "SD",
+    "plan": "HBO Premium",
+    "category": "Entretenimiento"
+  },
+  {
+    "name": "HBO 2",
+    "number": "517",
+    "type": "SD",
+    "plan": "HBO Premium",
+    "category": "Entretenimiento"
+  },
+  {
+    "name": "HBO plus",
+    "number": "518",
+    "type": "SD",
+    "plan": "HBO Premium",
+    "category": "Entretenimiento"
+  },
+  {
+    "name": "HBO Family",
+    "number": "520",
+    "type": "SD",
+    "plan": "HBO Premium",
+    "category": "Entretenimiento"
+  },
+  {
+    "name": "HBO Signature",
+    "number": "521",
+    "type": "SD",
+    "plan": "HBO Premium",
+    "category": "Entretenimiento"
+  },
+  {
+    "name": "Max",
+    "number": "522",
+    "type": "SD",
+    "plan": "HBO Premium",
+    "category": "Entretenimiento"
+  },
+  {
+    "name": "Max Prime",
+    "number": "523",
+    "type": "SD",
+    "plan": "HBO Premium",
+    "category": "Entretenimiento"
+  },
+  {
+    "name": "Playboy",
+    "number": "850",
+    "type": "SD",
+    "plan": "Adulto",
+    "category": "Adulto"
+  },
+  {
+    "name": "Venus",
+    "number": "851",
+    "type": "SD",
+    "plan": "Adulto",
+    "category": "Adulto"
+  },
+  {
+    "name": "Sextreme",
+    "number": "852",
+    "type": "SD",
+    "plan": "Adulto",
+    "category": "Adulto"
+  }
+]

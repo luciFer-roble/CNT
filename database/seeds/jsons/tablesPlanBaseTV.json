@@ -1,0 +1,212 @@
+{
+  "Ecuavisa": {
+    "Nombre del Canal": "Ecuavisa",
+    "Número del Canal": "2",
+    "Tipo de Canal": "Nacional"
+  },
+  "Teleamazonas": {
+    "Nombre del Canal": "Teleamazonas",
+    "Número del Canal": "4",
+    "Tipo de Canal": "Nacional"
+  },
+  "RTS": {
+    "Nombre del Canal": "RTS",
+    "Número del Canal": "5",
+    "Tipo de Canal": "Nacional"
+  },
+  "Oromar Tv": {
+    "Nombre del Canal": "Oromar Tv",
+    "Número del Canal": "6",
+    "Tipo de Canal": "Nacional"
+  },
+  "Ecuador Tv": {
+    "Nombre del Canal": "Ecuador Tv",
+    "Número del Canal": "7",
+    "Tipo de Canal": "Nacional"
+  },
+  "Gamavisión": {
+    "Nombre del Canal": "Gamavisión",
+    "Número del Canal": "8",
+    "Tipo de Canal": "Nacional"
+  },
+  "Discovery Kids": {
+    "Nombre del Canal": "Discovery Kids",
+    "Número del Canal": "50",
+    "Tipo de Canal": "Infantil"
+  },
+  "Nat Geo Kids": {
+    "Nombre del Canal": "Nat Geo Kids",
+    "Número del Canal": "51",
+    "Tipo de Canal": "Infantil"
+  },
+  "Nickelodeon": {
+    "Nombre del Canal": "Nickelodeon",
+    "Número del Canal": "52",
+    "Tipo de Canal": "Infantil"
+  },
+  "Cartoon Network": {
+    "Nombre del Canal": "Cartoon Network",
+    "Número del Canal": "53",
+    "Tipo de Canal": "Infantil"
+  },
+  "Disney Channel": {
+    "Nombre del Canal": "Disney Channel",
+    "Número del Canal": "54",
+    "Tipo de Canal": "Infantil"
+  },
+  "Disney XD": {
+    "Nombre del Canal": "Disney XD",
+    "Número del Canal": "55",
+    "Tipo de Canal": "Infantil"
+  },
+  "Canal FOX": {
+    "Nombre del Canal": "Canal FOX",
+    "Número del Canal": "101",
+    "Tipo de Canal": "peliculas"
+  },
+  "Universal": {
+    "Nombre del Canal": "Universal",
+    "Número del Canal": "102",
+    "Tipo de Canal": "peliculas"
+  },
+  "Space": {
+    "Nombre del Canal": "Space",
+    "Número del Canal": "103",
+    "Tipo de Canal": "peliculas"
+  },
+  "Studio Universal": {
+    "Nombre del Canal": "Studio Universal",
+    "Número del Canal": "104",
+    "Tipo de Canal": "peliculas"
+  },
+  "FX": {
+    "Nombre del Canal": "FX",
+    "Número del Canal": "105",
+    "Tipo de Canal": "peliculas"
+  },
+  "Warner Channel": {
+    "Nombre del Canal": "Warner Channel",
+    "Número del Canal": "110",
+    "Tipo de Canal": "peliculas"
+  },
+  "Discovery Home and Health": {
+    "Nombre del Canal": "Discovery Home and Health",
+    "Número del Canal": "148",
+    "Tipo de Canal": "variado"
+  },
+  "Travel & Living Channel": {
+    "Nombre del Canal": "Travel & Living Channel",
+    "Número del Canal": "149",
+    "Tipo de Canal": "variado"
+  },
+  "Canal de las Estrellas": {
+    "Nombre del Canal": "Canal de las Estrellas",
+    "Número del Canal": "151",
+    "Tipo de Canal": "variado"
+  },
+  "El Gourmet": {
+    "Nombre del Canal": "El Gourmet",
+    "Número del Canal": "154",
+    "Tipo de Canal": "variado"
+  },
+  "Telemundo": {
+    "Nombre del Canal": "Telemundo",
+    "Número del Canal": "157",
+    "Tipo de Canal": "variado"
+  },
+  "Life Time": {
+    "Nombre del Canal": "Life Time",
+    "Número del Canal": "159",
+    "Tipo de Canal": "variado"
+  },
+  "CNT Sports": {
+    "Nombre del Canal": "CNT Sports",
+    "Número del Canal": "300",
+    "Tipo de Canal": "deportes"
+  },
+  "FOX Sports": {
+    "Nombre del Canal": "FOX Sports",
+    "Número del Canal": "301",
+    "Tipo de Canal": "deportes"
+  },
+  "FOX Sports 2": {
+    "Nombre del Canal": "FOX Sports 2",
+    "Número del Canal": "304",
+    "Tipo de Canal": "deportes"
+  },
+  "ESPN": {
+    "Nombre del Canal": "ESPN",
+    "Número del Canal": "302",
+    "Tipo de Canal": "deportes"
+  },
+  "ESPN 2": {
+    "Nombre del Canal": "ESPN 2",
+    "Número del Canal": "303",
+    "Tipo de Canal": "deportes"
+  },
+  "FOX Sports 3": {
+    "Nombre del Canal": "FOX Sports 3",
+    "Número del Canal": "305",
+    "Tipo de Canal": "deportes"
+  },
+  "Discovery Channel": {
+    "Nombre del Canal": "Discovery Channel",
+    "Número del Canal": "350",
+    "Tipo de Canal": "documental"
+  },
+  "Animal Planet": {
+    "Nombre del Canal": "Animal Planet",
+    "Número del Canal": "353",
+    "Tipo de Canal": "documental"
+  },
+  "National Geographic": {
+    "Nombre del Canal": "National Geographic",
+    "Número del Canal": "354",
+    "Tipo de Canal": "documental"
+  },
+  "The History Channel": {
+    "Nombre del Canal": "The History Channel",
+    "Número del Canal": "361",
+    "Tipo de Canal": "documental"
+  },
+  "History 2": {
+    "Nombre del Canal": "History 2",
+    "Número del Canal": "362",
+    "Tipo de Canal": "documental"
+  },
+  "CNN en Español": {
+    "Nombre del Canal": "CNN en Español",
+    "Número del Canal": "400",
+    "Tipo de Canal": "documental"
+  },
+  "Tango": {
+    "Nombre del Canal": "Tango",
+    "Número del Canal": "901",
+    "Tipo de Canal": "Audio"
+  },
+  "The Chill Lounge": {
+    "Nombre del Canal": "The Chill Lounge",
+    "Número del Canal": "902",
+    "Tipo de Canal": "Audio"
+  },
+  "Romance Latino": {
+    "Nombre del Canal": "Romance Latino",
+    "Número del Canal": "903",
+    "Tipo de Canal": "Audio"
+  },
+  "Latino Tropical": {
+    "Nombre del Canal": "Latino Tropical",
+    "Número del Canal": "904",
+    "Tipo de Canal": "Audio"
+  },
+  "Poolside": {
+    "Nombre del Canal": "Poolside",
+    "Número del Canal": "905",
+    "Tipo de Canal": "Audio"
+  },
+  "Flashbacj 70´s": {
+    "Nombre del Canal": "Flashbacj 70´s",
+    "Número del Canal": "906",
+    "Tipo de Canal": "Audio"
+  }
+}
